@@ -2,7 +2,7 @@
 $listeOeuvres = [
     [
         "id" => 1,
-        "img" => "img/clark-van-der-beken.png",
+        "img" => "clark-van-der-beken.png",
         "alt" => "Dodomu",
         "titre" => "DODOMU",
         "auteur" => "Mia Tozerski",
@@ -10,7 +10,7 @@ $listeOeuvres = [
     ],
     [
         "id" => 2,
-        "img" => "img/pawel-czerwinski-3.png",
+        "img" => "pawel-czerwinski-3.png",
         "alt" => "Aashaaheen Baadal",
         "titre" => "AASHAAHEEN BAADAL",
         "auteur" => "Anaisha Devi",
@@ -18,7 +18,7 @@ $listeOeuvres = [
     ],
     [
         "id" => 3,
-        "img" => "img/dan-cristian-padure.png",
+        "img" => "dan-cristian-padure.png",
         "alt" => "Nightlife Traffic",
         "titre" => "NIGHTLIFE TRAFFIC",
         "auteur" => "Andrew Forsythe",
@@ -26,7 +26,7 @@ $listeOeuvres = [
     ],
     [
         "id" => 4,
-        "img" => "img/steve-johnson-5.png",
+        "img" => "steve-johnson-5.png",
         "alt" => "Le refuge de l'Havre",
         "titre" => "LE REFUGE DE L'HAVRE",
         "auteur" => "Simon Pelletier",
@@ -34,7 +34,7 @@ $listeOeuvres = [
     ],
     [
         "id" => 5,
-        "img" => "img/steve-johnson.png",
+        "img" => "steve-johnson.png",
         "alt" => "Red Washover",
         "titre" => "RED WASHOVER",
         "auteur" => "Kit Van Der Borght",
@@ -42,7 +42,7 @@ $listeOeuvres = [
     ],
     [
         "id" => 6,
-        "img" => "img/pawel-czerwinski.png",
+        "img" => "pawel-czerwinski.png",
         "alt" => "Chromatics",
         "titre" => "CHROMATICS",
         "auteur" => "Jean-Michel Delatronchette",
@@ -50,7 +50,7 @@ $listeOeuvres = [
     ],
     [
         "id" => 7,
-        "img" => "img/jazmin-quaynor.png",
+        "img" => "jazmin-quaynor.png",
         "alt" => "Digital Negative",
         "titre" => "DIGITAL NEGATIVE",
         "auteur" => "Hamish McKee",
@@ -58,7 +58,7 @@ $listeOeuvres = [
     ],
     [
         "id" => 8,
-        "img" => "img/steve-johnson-6.png",
+        "img" => "steve-johnson-6.png",
         "alt" => "Blast from the past",
         "titre" => "BLAST FROM THE PAST",
         "auteur" => "Juliette Baskerville",
@@ -66,7 +66,7 @@ $listeOeuvres = [
     ],
     [
         "id" => 9,
-        "img" => "img/victor-grabarczyk.png",
+        "img" => "victor-grabarczyk.png",
         "alt" => "Hurricane",
         "titre" => "HURRICANE",
         "auteur" => "Natalie Wellington",
@@ -74,7 +74,7 @@ $listeOeuvres = [
     ],
     [
         "id" => 10,
-        "img" => "img/pawel-czerwinski-2.png",
+        "img" => "pawel-czerwinski-2.png",
         "alt" => "La marée rouge",
         "titre" => "LA MARÉE ROUGE",
         "auteur" => "Martin Rodriguez",
@@ -82,7 +82,7 @@ $listeOeuvres = [
     ],
     [
         "id" => 11,
-        "img" => "img/steve-johnson-2.png",
+        "img" => "steve-johnson-2.png",
         "alt" => "Asimilacion",
         "titre" => "ASIMILACION",
         "auteur" => "Angel Sanchez-Fernandez",
@@ -90,7 +90,7 @@ $listeOeuvres = [
     ],
     [
         "id" => 12,
-        "img" => "img/fly-d.png",
+        "img" => "fly-d.png",
         "alt" => "La Galaxia Gialla",
         "titre" => "LA GALAXIA GIALLA",
         "auteur" => "Eduardo Tancredi",
@@ -98,7 +98,7 @@ $listeOeuvres = [
     ],
     [
         "id" => 13,
-        "img" => "img/orfeas-green.png",
+        "img" => "orfeas-green.png",
         "alt" => "Puffy Amalgamate",
         "titre" => "PUFFY AMALGAMATE",
         "auteur" => "Sandro De Blasi",
@@ -106,7 +106,7 @@ $listeOeuvres = [
     ],
     [
         "id" => 14,
-        "img" => "img/steve-johnson-4.png",
+        "img" => "steve-johnson-4.png",
         "alt" => "Mirage",
         "titre" => "MIRAGE",
         "auteur" => "Stéphanie Kaiser",
@@ -114,7 +114,7 @@ $listeOeuvres = [
     ],
     [
         "id" => 15,
-        "img" => "img/steve-johnson-3.png",
+        "img" => "steve-johnson-3.png",
         "alt" => "Blaue Gelbe Muster",
         "titre" => "BLAUE GELBE MUSTER",
         "auteur" => "Adelheid Von Schreiber",
